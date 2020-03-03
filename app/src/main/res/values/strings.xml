@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Map With Marker</string>
+    <string name="title_activity_maps">Map with Marker</string>
+    <string name="Cotxe">Cotxes</string>
+    <string name="Moto">Motos</string>
+    <string name="Bici">Bicicletes</string>
+    <string name="perm">Concedeixi els permisos corresponents</string>
+    <string name="prop">S\'han de concedir els permisos de localització per garantir el correcte funcionament.</string>
+    <string name="needed">Ha de concedir els permisos necessaris</string>
+    <string name="su">Acceptar</string>
+    <string name="No">Ara No</string>
+</resources>
